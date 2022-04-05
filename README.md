@@ -46,3 +46,9 @@ Unable to fix this.
 3. ```make; sudo make install``` (for older kernels ensure that ```gcc```'s
 version matches the one that the module wants, e.g. don't try to compile with
 gcc 8 a 3.X and so...)
+
+## NordVPN
+
+The good version is `3.12.0-1`.
+
+Remember to mark is as not to be updated.
