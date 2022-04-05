@@ -51,4 +51,4 @@ gcc 8 a 3.X and so...)
 
 The good version is `3.12.0-1`.
 
-Remember to mark is as not to be updated.
+Remember to mark it as not to be updated.
